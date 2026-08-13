@@ -5,7 +5,7 @@ FastAPI를 활용한 건강관리 웹 애플리케이션 실습 프로젝트입�
 Python 보충수업에서 제공된 실습용 starter code를 기반으로 진행하며,
 제공된 프론트엔드와 Water 기능을 참고하여 미완성된 백엔드 기능을 직접 구현합니다.
 
-⸻
+
 
 ## 🛠 Tech Stack
 
@@ -25,7 +25,7 @@ Python 보충수업에서 제공된 실습용 starter code를 기반으로 진�
 * Jinja2
 * HTML / CSS / JavaScript
 
-⸻
+
 
 ## 📌 주요 기능
 
@@ -37,7 +37,7 @@ Python 보충수업에서 제공된 실습용 starter code를 기반으로 진�
 * 😴 수면 기록
 * 📊 건강 데이터 리포트
 
-⸻
+
 
 ## 💻 구현 내용
 
@@ -60,7 +60,7 @@ Python 보충수업에서 제공된 실습용 starter code를 기반으로 진�
 
 구현이 완료될 때마다 체크리스트와 프로젝트 내용을 업데이트할 예정입니다.
 
-⸻
+
 
 ## 📂 프로젝트 구조
 ```
@@ -84,7 +84,7 @@ app/
 ├── templates/           # Jinja2 HTML 템플릿
 └── static/              # CSS / JavaScript / 이미지
 ```
-⸻
+
 
 ## 🔄 요청 및 응답 흐름
 ```
@@ -106,7 +106,7 @@ SQLite Database
 * Model: Tortoise ORM을 이용해 데이터베이스와 통신
 * Database: SQLite에 건강 데이터 저장
 
-⸻
+
 
 ## ▶️ 실행 방법
 
@@ -130,7 +130,7 @@ macOS / Linux
 
 서버가 실행되면 브라우저에서 안내된 로컬 주소로 접속합니다.
 
-⸻
+
 
 ## 📚 학습 목표
 
@@ -145,7 +145,7 @@ macOS / Linux
 * Jinja2를 활용한 HTML 렌더링
 * Git / GitHub를 활용한 프로젝트 버전 관리
 
-⸻
+
 
 ## 📝 프로젝트 출처
 
