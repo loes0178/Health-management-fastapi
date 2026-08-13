@@ -112,21 +112,21 @@ SQLite Database
 
 ### 1. 가상환경 생성
 
-python -m venv .venv
+`python -m venv .venv`
 
 ### 2. 가상환경 활성화
 
 macOS / Linux
 
-source .venv/bin/activate
+`source .venv/bin/activate`
 
 ### 3. 패키지 설치
 
-python -m pip install -r requirements.txt
+`python -m pip install -r requirements.txt`
 
 ### 4. FastAPI 서버 실행
 
-python -m uvicorn app.main:app --reload
+`python -m uvicorn app.main:app --reload`
 
 서버가 실행되면 브라우저에서 안내된 로컬 주소로 접속합니다.
 
